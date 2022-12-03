@@ -2,6 +2,5 @@
 Estudo git - github
 
 
-#Alguns conseitos de criação e sicronização git/github
+#Alguns dos desafios do bootcamp
 
-gi init
