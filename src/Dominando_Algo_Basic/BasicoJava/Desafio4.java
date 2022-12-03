@@ -1,4 +1,4 @@
-package Dominando_Algo_Basic;
+package Dominando_Algo_Basic.BasicoJava;
 import java.util.Scanner;
  
 public class Desafio4 
