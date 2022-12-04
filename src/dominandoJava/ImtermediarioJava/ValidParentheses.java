@@ -1,4 +1,4 @@
-package Dominando_Algo_Basic.ImtermediarioJava;
+package dominandoJava.ImtermediarioJava;
 
 import java.util.Scanner;
 

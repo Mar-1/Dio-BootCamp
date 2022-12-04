@@ -1,4 +1,4 @@
-package Dominando_Algo_Basic.ImtermediarioJava;
+package dominandoJava.ImtermediarioJava;
 
 // IMPORTANTE: Para ler os dados de entrada do usuário, utilize a classe Scanner, 
 // instanciando seu leitor da seguinte forma: "Scanner leitor = new Scanner(System.in);". 
